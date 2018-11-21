@@ -47,6 +47,7 @@ def main():
             alfa = beta + alfa
             vk.messages.send(user_id='75772038',message=alfa,keyboard=keyboard.get_keyboard())
             vk.messages.send(chat_id='2',message=alfa)
+            vk.messages.send(chat_id='3',message=alfa)
 #            vk.messages.send(user_id='86658739',message=alfa,keyboard=keyboard.get_keyboard())        
         print(1)        
         time.sleep(360)
