@@ -21,6 +21,6 @@ tqdm==4.26.0
 urllib3==1.23
 vk-api==11.1.0
 w3lib==1.19.0
-websockets==6.0
+websockets==9.1
 xlrd==1.1.0
 zope.interface==4.5.0
